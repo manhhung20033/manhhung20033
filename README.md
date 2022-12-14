@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### This all I learn in 2 week.
 <!--
 **manhhung20033/manhhung20033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
